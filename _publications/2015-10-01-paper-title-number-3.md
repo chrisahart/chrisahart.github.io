@@ -1,10 +1,6 @@
 ---
-title: "Polaronic structure of excess electrons and holes for a series of bulk iron oxides"
+title: "Implementation and validation of constrained density functional theory forces in the CP2K package"
 collection: publications
-permalink: https://pubs.rsc.org/en/content/articlelanding/2020/CP/C9CP06482F
-excerpt: 'Polaron structures and associated reorganisation energies are calculated for a series of iron oxides.'
-date: 2020-02-17
-venue: 'Physical Chemistry Chemical Physics'
-paperurl: 'https://pubs.rsc.org/en/content/articlepdf/2020/cp/c9cp06482f'
-citation: "Ahart, C. S., Blumberger, J. & Rosso, K. M. Polaronic structure of excess electrons and holes for a series of bulk iron oxides. Phys. Chem. Chem. Phys. 22, 10699–10709 (2020)."
+excerpt: 'CDFT forces based on Hirshfeld partitioning of the electron density is implemented and validated in CP2K.'
+citation: "Ahart, C. S., Rosso, K. M. & Blumberger, J. Implementation and validation of constrained density functional theory forces in the CP2K package. submitted (2022)."
 ---
