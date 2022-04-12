@@ -84,8 +84,8 @@ author:
   avatar           : "profile.png"
   location         : "London, UK"
   employer         :
-  googlescholar    : "https://scholar.google.com/citations?user=cXGF154AAAAJ&hl=en"
-  email            :
+  googlescholar    : "https://scholar.google.com/citations?user=cXGF154AAAAJ"
+  email            : "ucapca1@ucl.ac.uk"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -99,7 +99,7 @@ author:
   keybase          :
   instagram        :
   lastfm           :
-  linkedin         :
+  linkedin         : "christian-ahart-bb304910b"
   orcid            : "https://orcid.org/0000-0002-1237-1533"
   pinterest        :
   soundcloud       :
