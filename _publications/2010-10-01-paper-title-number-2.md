@@ -1,15 +1,10 @@
 ---
-title: "Paper Title Number 2"
+title: "Polaronic structure of excess electrons and holes for a series of bulk iron oxides"
 collection: publications
-permalink: /publication/2010-10-01-paper-title-number-2
-excerpt: 'This paper is about the number 2. The number 3 is left for future work.'
-date: 2010-10-01
-venue: 'Journal 1'
-paperurl: 'http://academicpages.github.io/files/paper2.pdf'
-citation: 'Your Name, You. (2010). &quot;Paper Title Number 2.&quot; <i>Journal 1</i>. 1(2).'
+permalink: https://pubs.rsc.org/en/content/articlelanding/2020/CP/C9CP06482F
+excerpt: 'Polaron structures and associated reorganisation energies are calculated for a series of iron oxides.'
+date: 2020-02-17
+venue: 'Physical Chemistry Chemical Physics'
+paperurl: 'https://pubs.rsc.org/en/content/articlepdf/2020/cp/c9cp06482f'
+citation: "Ahart, C. S., Blumberger, J. & Rosso, K. M. Polaronic structure of excess electrons and holes for a series of bulk iron oxides. Phys. Chem. Chem. Phys. 22, 10699–10709 (2020)."
 ---
-This paper is about the number 2. The number 3 is left for future work.
-
-[Download paper here](http://academicpages.github.io/files/paper2.pdf)
-
-Recommended citation: Your Name, You. (2010). "Paper Title Number 2." <i>Journal 1</i>. 1(2).
