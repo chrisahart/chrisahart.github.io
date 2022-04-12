@@ -1,10 +1,10 @@
 ---
-title: "Polaronic structure of excess electrons and holes for a series of bulk iron oxides"
+title: "Electron and hole mobilities in bulk hematite from spin-constrained density functional theory"
 collection: publications
-permalink: https://pubs.rsc.org/en/content/articlelanding/2020/CP/C9CP06482F
+permalink: https://pubs.acs.org/doi/abs/10.1021/jacs.1c13507
 excerpt: 'Polaron structures and associated reorganisation energies are calculated for a series of iron oxides.'
-date: 2020-02-17
-venue: 'Physical Chemistry Chemical Physics'
-paperurl: 'https://pubs.rsc.org/en/content/articlepdf/2020/cp/c9cp06482f'
-citation: "Ahart, C. S., Blumberger, J. & Rosso, K. M. Polaronic structure of excess electrons and holes for a series of bulk iron oxides. Phys. Chem. Chem. Phys. 22, 10699–10709 (2020)."
+date: 2022-03-03
+venue: 'Journal of the American Chemical Society'
+paperurl: 'https://pubs.acs.org/doi/abs/10.1021/jacs.1c13507'
+citation: "Ahart, C. S., Rosso, K. M. & Blumberger, J. Electron and Hole Mobilities in Bulk Hematite from Spin-Constrained Density Functional Theory. J. Am. Chem. Soc. 144, 4623–4632 (2022)."
 ---
