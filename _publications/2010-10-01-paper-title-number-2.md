@@ -2,7 +2,7 @@
 title: "Electron and hole mobilities in bulk hematite from spin-constrained density functional theory"
 collection: publications
 permalink: https://pubs.acs.org/doi/abs/10.1021/jacs.1c13507
-excerpt: 'Polaron structures and associated reorganisation energies are calculated for a series of iron oxides.'
+excerpt: 'Mobility of excess electrons and electron holes is calculated in bulk hematite.'
 date: 2022-03-03
 venue: 'Journal of the American Chemical Society'
 paperurl: 'https://pubs.acs.org/doi/abs/10.1021/jacs.1c13507'
