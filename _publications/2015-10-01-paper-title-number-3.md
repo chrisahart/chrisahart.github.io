@@ -1,7 +1,9 @@
 ---
 title: "Implementation and validation of constrained density functional theory forces in the CP2K package"
 collection: publications
-date: 2022
-excerpt: 'CDFT forces based on Hirshfeld partitioning of the electron density is implemented and validated in CP2K.'
+#permalink: https://pubs.acs.org/doi/abs/10.1021/jacs.1c13507
+#excerpt: 'Mobility of excess electrons and electron holes is calculated in bulk hematite.'
+date: 2022-03-03
+venue: 'Journal of Chemical Theory and Computation'
 citation: "Ahart, C. S., Rosso, K. M. & Blumberger, J. Implementation and validation of constrained density functional theory forces in the CP2K package. submitted (2022)."
 ---
