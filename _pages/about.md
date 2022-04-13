@@ -6,4 +6,4 @@ author_profile: true
 
 ---
 
-I am Christian S. Ahart, a PhD candidate at University College London (2018-2022). 
+I am Christian Ahart, a PhD candidate at University College London (2018-2022). 
