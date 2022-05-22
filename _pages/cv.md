@@ -11,7 +11,8 @@ author_profile: true
 Curriculum vitae PDF 
 {/files/CV.pdf} 
 [a link](https://github.com/chrisahart/chrisahart.github.io/blob/master/files/CV.pdf) 
-[this subtext](files/CV.pdf)
+[this subtext](base_path/files/CV.pdf)
+[this subtext](../files/CV.pdf)
 
 Education
 ======
