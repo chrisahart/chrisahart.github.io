@@ -8,7 +8,7 @@ author_profile: true
 
 {% include base_path %}
 
-Curriculum vitae [PDF 1](base_path/files/CV.pdf) [PDF 2](../files/CV.pdf)
+Curriculum vitae [PDF](../files/CV.pdf)
 
 Education
 ======
