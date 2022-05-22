@@ -8,20 +8,12 @@ author_profile: true
 
 {% include base_path %}
 
+{/files/CV.pdf}
+
 Education
 ======
-* Text 
-* Text
-
-Academic/Research Experience
-======
-
-Teaching Experience
-======
-  
-* Text
-  * Text
-  * Text
+* PhD Condensed Matter and Materials Physics, University College London (2018-2022).
+* MSc. Chemistry and Molecular Physics (First class Honours), University of Nottingham (2014-2018).
 
 Publications
 ======
