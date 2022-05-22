@@ -80,7 +80,7 @@ analytics:
 
 # Site Author
 author:
-  name             : "Christian Ahart"
+  name             : "Christian S. Ahart"
   avatar           : "profile.png"
   location         : "London, UK"
   employer         :
@@ -94,7 +94,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : #"chrisahart"
+  github           : "chrisahart"
   google_plus      :
   keybase          :
   instagram        :
