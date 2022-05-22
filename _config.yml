@@ -7,9 +7,9 @@
 
 # Site Settings
 locale                   : "en-UK"
-title                    : "Christian Ahart"
+title                    : "Christian S. Ahart"
 title_separator          : "-"
-name                     : &name "Christian Ahart"
+name                     : &name "Christian S. Ahart"
 description              : &description "PhD candidate at University College London"
 url                      : https://chrisahart.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
