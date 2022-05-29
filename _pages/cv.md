@@ -22,6 +22,7 @@ Conferences
 
 Workshops, meetings and related events
 ======
+* [Supercomputer modelling of advanced materials, 2022. Poster.](https://royalsociety.org/science-events-and-lectures/2022/06/supercomputer-modelling/)
 * [Research Group Seminar at Chicheley Hall, 2022. Talk.](https://blumberger.net/wp-content/uploads/2022/03/program-Chicheley-Hall.pdf)
 * [CP2K Users and Developers symposium at Imperial College London, 2019. Attended.](https://www.ccp5.ac.uk/cp2kmeet2019)
 * [TYC Student Day, 2019. Poster presentation.](https://www.materials.qmul.ac.uk/news/3634/thomas-young-centre-tyc-student-day-2019)
