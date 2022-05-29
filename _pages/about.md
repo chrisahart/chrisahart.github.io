@@ -11,4 +11,4 @@ I have recently passed my viva for a PhD in Condensed Matter and Materials Physi
 The aim of my research was to better understand charge transport processes in materials through atomistic simulations.
 
 Thesis (before minor corrections): 
-[Charge transport in bulk hematiteand at the hematite/water interface](../files/Thesis-compressed.pdf)
+[Charge transport in bulk hematite and at the hematite/water interface](../files/Thesis-compressed.pdf)
