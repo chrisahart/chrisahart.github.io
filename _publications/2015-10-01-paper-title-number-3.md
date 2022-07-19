@@ -1,6 +1,6 @@
 ---
-#title: "Implementation and validation of constrained density functional theory forces in the CP2K package"
-title: "[Implementation and validation of constrained density functional theory forces in the CP2K package](https://doi.org/10.1021/acs.jctc.2c00284)"
+#title: "Implementation and Validation of Constrained Density Functional Theory Forces in the CP2K Package"
+title: "[Implementation and Validation of Constrained Density Functional Theory Forces in the CP2K Package](https://doi.org/10.1021/acs.jctc.2c00284)"
 collection: publications
 #permalink: https://pubs.acs.org/doi/abs/10.1021/jacs.1c13507
 #excerpt: 'Mobility of excess electrons and electron holes is calculated in bulk hematite.'
