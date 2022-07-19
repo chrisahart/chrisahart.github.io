@@ -6,5 +6,5 @@ collection: publications
 #excerpt: 'Mobility of excess electrons and electron holes is calculated in bulk hematite.'
 date: 2022-03-03
 venue: 'Journal of Chemical Theory and Computation'
-citation: "Ahart, C. S., Rosso, K. M. & Blumberger, J. Implementation and validation of constrained density functional theory forces in the CP2K package (2022)."
+citation: "Ahart, C. S., Rosso, K. M. & Blumberger, J. Implementation and Validation of Constrained Density Functional Theory Forces in the CP2K Package. J. Chem. Theory Comput. 18, 4438–4446 (2022)."
 ---
