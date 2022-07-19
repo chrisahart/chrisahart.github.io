@@ -17,7 +17,7 @@ Education
 
 Conferences
 ======
-* [TBC Psi-k, 2022. Poster presentation.](https://www.psik2022.net/home)
+* [Psi-k, 2022. Poster presentation.](https://www.psik2022.net/home)
 * [Computational Molecular Science, 2019. Poster presentation.](https://warwick.ac.uk/fac/sci/chemistry/chemevents/events/cms2019/)
 
 Workshops, meetings and related events
