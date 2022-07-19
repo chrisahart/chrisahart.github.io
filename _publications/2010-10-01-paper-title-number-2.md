@@ -1,6 +1,6 @@
 ---
-#title: "Electron and hole mobilities in bulk hematite from spin-constrained density functional theory"
-title: "[Electron and hole mobilities in bulk hematite from spin-constrained density functional theory](https://doi.org/10.1021/jacs.1c13507)"
+#title: "Electron and Hole Mobilities in Bulk Hematite from Spin-Constrained Density Functional Theory"
+title: "[Electron and Hole Mobilities in Bulk Hematite from Spin-Constrained Density Functional Theory](https://doi.org/10.1021/jacs.1c13507)"
 collection: publications
 #permalink: https://pubs.acs.org/doi/abs/10.1021/jacs.1c13507
 #excerpt: 'Mobility of excess electrons and electron holes is calculated in bulk hematite.'
