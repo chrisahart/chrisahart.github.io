@@ -10,9 +10,11 @@ I have recently submitted my thesis corrections for a PhD in Condensed Matter an
 
 The aim of my research was to better understand charge transport processes in materials through atomistic simulations.
 
-<strong>Thesis:</strong> <br />
+<strong>Thesis (UCL official version):</strong> <br />
 [Charge transport in bulk hematite and at the hematite/water interface.](../files/Thesis-compressed.pdf)  <br />
-<!---[Uncompressed (Google Drive)](https://drive.google.com/file/d/1v3T4YOj_AMgKdjeEfpH0lpDEVleKZDeT/view?usp=sharing)--->
+
+<strong>Thesis (Unofficial version with additional corrections):</strong> <br />
+[Charge transport in bulk hematite and at the hematite/water interface.](../files/thesis-unofficial-changes-compressed.pdf)  <br />
 
 <strong>Abstract:</strong> <br />
 Transition metal oxide materials have attracted much attention for photoelectrochemical water splitting, but problems remain, e.g. the sluggish transport of excess charge carriers in these materials, which is not well understood. In this thesis I will show how periodic, spin-constrained and gap-optimised hybrid density functional theory can be used to uncover the nature and transport mechanisms of excess electrons and electron holes in a widely used water splitting material, hematite (α-Fe<sub>2</sub>O<sub>3</sub>). 
