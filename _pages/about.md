@@ -6,7 +6,7 @@ author_profile: true
 
 ---
 
-I have recently submitted my thesis corrections for a PhD in Condensed Matter and Materials Physics at University College London (2018-2022), under the supervision of Prof. Jochen Blumberger. 
+I have recently been awarded a PhD in Condensed Matter and Materials Physics at University College London (2018-2022), under the supervision of Prof. Jochen Blumberger. 
 
 The aim of my research was to better understand charge transport processes in materials through atomistic simulations.
 
