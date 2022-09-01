@@ -6,9 +6,7 @@ author_profile: true
 
 ---
 
-I have recently been awarded a PhD in Condensed Matter and Materials Physics at University College London (2018-2022), under the supervision of Prof. Jochen Blumberger. 
-
-The aim of my research was to better understand charge transport processes in materials through atomistic simulations.
+I have recently joined the group of Dr Clotilde Cucinotta at Imperial College London, after being awarded a PhD in Condensed Matter and Materials Physics at University College London (2018-2022), under the supervision of Prof Jochen Blumberger. 
 
 <strong>Thesis (UCL official version):</strong> <br />
 [Charge transport in bulk hematite and at the hematite/water interface.](../files/Thesis-compressed.pdf)  <br />
