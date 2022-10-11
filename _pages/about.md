@@ -8,8 +8,8 @@ author_profile: true
 
 I have recently joined the group of Dr Clotilde Cucinotta at Imperial College London as a Research Associate.
 
-<strong>Thesis (UCL official version):</strong> <br />
-[Charge transport in bulk hematite and at the hematite/water interface.](../files/Thesis-compressed.pdf)  <br />
+<strong>Thesis (Official version):</strong> <br />
+[Charge transport in bulk hematite and at the hematite/water interface.](https://discovery.ucl.ac.uk/id/eprint/10153463/2/thesis.pdf)  <br />
 
 <strong>Thesis (Unofficial version with additional corrections):</strong> <br />
 [Charge transport in bulk hematite and at the hematite/water interface.](../files/Thesis-unofficial-changes-compressed.pdf)  <br />
