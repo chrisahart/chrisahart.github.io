@@ -6,7 +6,7 @@ author_profile: true
 
 ---
 
-I have recently joined the group of Dr. Clotilde Cucinotta at Imperial College London as a Research Associate (postdoctoral researcher), working to enable the dynamical modelling of electrochemical systems under applied potential by interfacing the DFT code CP2K with the NEGF code SMEAGOL.
+I have recently joined the group of Dr. Clotilde Cucinotta at Imperial College London as a Research Associate (postdoctoral researcher), working to enable the dynamical modelling of electrochemical systems under applied potential.
 
 <strong>PhD Thesis (Official version):</strong> <br />
 [Charge transport in bulk hematite and at the hematite/water interface.](https://discovery.ucl.ac.uk/id/eprint/10153463/2/thesis.pdf)  <br />
