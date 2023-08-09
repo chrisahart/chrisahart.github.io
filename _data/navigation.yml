@@ -6,6 +6,6 @@ main:
   - title: "CV"
     url: /cv/
 
-  - title: "Blog"
+  - title: "Posts"
     # url: /blog/
     url: /posts/2023/majestic_vivino
