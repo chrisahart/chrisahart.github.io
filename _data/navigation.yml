@@ -7,4 +7,5 @@ main:
     url: /cv/
 
   - title: "Blog"
-    url: /blog/
+    # url: /blog/
+    url: /posts/2023/majestic_vivino
