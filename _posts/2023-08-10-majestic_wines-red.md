@@ -5,7 +5,7 @@ permalink: /posts/2023/2-majestic_wines-red
 
 ---
 
-I present some basis analysis of red wine available on [Majestic wines](https://www.majestic.co.uk), with data obtained using my recently released [chrome extension](https://chrome.google.com/webstore/detail/majestic%2Bvivino/neohjloinpdpfddkjfcagikdgepjbmee). 
+I present some analysis of red wines available on [Majestic wines](https://www.majestic.co.uk), with data obtained using my recently released [chrome extension](https://chrome.google.com/webstore/detail/majestic%2Bvivino/neohjloinpdpfddkjfcagikdgepjbmee). 
 
 The dataset is limited to currently in stock red wines on [Majestic wines](https://www.majestic.co.uk). Half bottles, port, wines with a price over £100 or wines without Vivino ratings were removed from the dataset. Only countries with more than 10 wine were included in the dataset, therefore excluding: Austria, England, Georgia, Germany, Greece, Hungary, Israel, Lebanon, Moldova, Romania and Slovenia.
 
