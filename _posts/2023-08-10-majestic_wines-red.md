@@ -22,11 +22,11 @@ I present some basis analysis, with [data](https://github.com/chrisahart/vivino-
 
 As expected France has not only the most wines and the most wine regions, but also the highest average price. Surprisingly, the average rating of 3.81 is lower than many other countries including Spain and Italy. This may suggest a strong hierarchy in the quality of French wines, or that French wines are reviewed more harshly. It seems likely that the reviewers of high end French wines are more critical than the reviewers of low end Italian wines, introducing an asymmetry in the rating system.
 
-<img src="https://github.com/chrisahart/vivino-majestic/blob/main/analysis/plots/price_rating_all.png" style="display: block; margin: auto;" />
+<img src="https://github.com/chrisahart/vivino-majestic/blob/main/analysis/plots/wine_red/price_rating_all.png" style="display: block; margin: auto;" />
 
 This figure shows the Vivino rating and Majestic Wines price for all wines, coloured by country, showing a strong correlation between Vivino rating and Majestic Wines price. 
 
-<img src="https://github.com/chrisahart/vivino-majestic/blob/main/analysis/plots/price_rating_france-multiple-regions-only.png" style="display: block; margin: auto;" />
+<img src="https://github.com/chrisahart/vivino-majestic/blob/main/analysis/plots/wine_red/price_rating_france-multiple-regions-only.png" style="display: block; margin: auto;" />
 
 This figure shows the Vivino rating and Majestic Wines price for wines in France, coloured by region, showing a strong correlation between Vivino rating and Majestic Wines price. As there are 68 wine regions in the database for France, only regions with more than 1 wine are represented. 'Vin de France, 'Côtes-du-Rhône' and 'Beaujolais' appear to be the wine regions with the greatest value. Notably, 'St Emilion Grand Cru' also appears to provide surprisingly good value.
 
@@ -83,4 +83,4 @@ Luis Felipe Edwards 900 Single Vineyard |4.0|14.99|Colchagua Valley|Chile
 Santa Rita Triple C |4.1|15.99|Maipo Valley|Chile
 Managers Choice VIK A Cabernet Sauvignon |4.2|16.99|Cachapoal Valley|Chile
 
-This table contains all wines with a Vivino rating above 4.0 and a price below £20, representing the greatest value. A [.csv file](https://github.com/chrisahart/vivino-majestic/blob/main/analysis/data/wines_rating-above-4.0_price-below-20.csv) is available in the Github repository. There appears to be a strong preference for smooth, low acidity, reasonably sweet fruit forward wines.
+This table contains all wines with a Vivino rating above 4.0 and a price below £20, representing the greatest value. A [.csv file](https://github.com/chrisahart/vivino-majestic/blob/main/analysis/data/wine_red/wines_rating-above-4.0_price-below-20.csv) is available in the Github repository. There appears to be a strong preference for smooth, low acidity, reasonably sweet fruit forward wines.
