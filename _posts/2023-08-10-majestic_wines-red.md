@@ -5,9 +5,7 @@ permalink: /posts/2023/2-majestic_wines-red
 
 ---
 
-# Majestic wines red wine analysis
-
-I present some basis analysis, with [data](https://github.com/chrisahart/vivino-majestic/tree/main/analysis/data) downloaded from [Majestic wines](https://www.majestic.co.uk), limited to currently in stock red wines only. Half bottles, port and wines with a price over £100 were removed from the dataset. Only countries with more than 1 wine were included in the dataset, therefore excluding English wine.
+I present some basis analysis, with [data](https://github.com/chrisahart/vivino-majestic/tree/main/analysis/data) downloaded from [Majestic wines](https://www.majestic.co.uk), limited to currently in stock red wines only. Half bottles, port and wines with a price over £100 were removed from the dataset. Only countries with more than 10 wine were included in the dataset, therefore excluding: Austria, England, Georgia, Germany, Greece, Hungary, Israel, Lebanon, Moldova, Romania and Slovenia.
 
 | Country      | Number of wines | Number of Regions | Average price / £ | Average rating |
 | -----------      | ----------- | ----------- | -----------| ----------- |
