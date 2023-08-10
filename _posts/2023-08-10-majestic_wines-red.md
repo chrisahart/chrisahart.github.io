@@ -24,11 +24,11 @@ The dataset is limited to currently in stock red wines on [Majestic wines](https
 
 As expected France has not only the most wines and the most wine regions, but also the highest average price. Surprisingly, the average rating of 3.8 is lower than many other countries including Spain and Australia. This may suggest a strong hierarchy in the quality of French wines, or that French wines are reviewed more harshly. It seems likely that the reviewers of high end French wines are more critical than the reviewers of low end Italian wines, introducing an asymmetry in the rating system. Similar effects can be seen on the beer rating website Untappd.
 
-<img src="../files/price_rating_all.png" style="display: block; margin: auto;" />
+<img src="../../files/price_rating_all.png" style="display: block; margin: auto;" />
 
 This figure shows the Vivino rating and Majestic Wines price for all wines, coloured by country, showing a strong correlation between Vivino rating and Majestic Wines price. 
 
-<img src="../files/price_rating_france-multiple-regions-only.png" style="display: block; margin: auto;" />
+<img src="../../files/price_rating_france-multiple-regions-only.png" style="display: block; margin: auto;" />
 
 This figure shows the Vivino rating and Majestic Wines price for wines in France, coloured by region, showing a strong correlation between Vivino rating and Majestic Wines price. As there are 68 wine regions in the database for France, only regions with more than 1 wine are represented. 'Vin de France, 'Côtes-du-Rhône' and 'Beaujolais' appear to be the wine regions with the greatest value. Notably, 'St Emilion Grand Cru' also appears to provide surprisingly good value.
 
