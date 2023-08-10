@@ -5,19 +5,20 @@ permalink: /posts/2023/2-majestic_wines-red
 
 ---
 
-I present some basis analysis, with [data](https://github.com/chrisahart/vivino-majestic/tree/main/analysis/data) downloaded from [Majestic wines](https://www.majestic.co.uk), limited to currently in stock red wines only. Half bottles, port and wines with a price over £100 were removed from the dataset. Only countries with more than 10 wine were included in the dataset, therefore excluding: Austria, England, Georgia, Germany, Greece, Hungary, Israel, Lebanon, Moldova, Romania and Slovenia.
+I present some basis analysis, with [data](https://github.com/chrisahart/vivino-majestic/tree/main/analysis/data) downloaded from [Majestic wines](https://www.majestic.co.uk), limited to currently in stock red wines only. Half bottles, port, wines with a price over £100 or wines without Vivino ratings were removed from the dataset. Only countries with more than 10 wine were included in the dataset, therefore excluding: Austria, England, Georgia, Germany, Greece, Hungary, Israel, Lebanon, Moldova, Romania and Slovenia.
 
 | Country      | Number of wines | Number of Regions | Average price / £ | Average rating |
 | -----------      | ----------- | ----------- | -----------| ----------- |
-| France      | 114       |  68       | 20.25       |3.81       |
-| Spain      | 52       |  22       | 14.31       |3.86       |
-| Italy      | 50       |  24       | 15.25       |3.84       |
-| Australia      | 39       |  9       | 17.0       |3.85      |
-| Chile      | 23       |  11       | 10.92       |3.67       |
-| Argentina      | 22       |  2       | 12.42       |3.85       |
-| USA      | 18       |  12       | 19.27       |3.88       |
-| Portugal      | 13       |  8       | 13.37       |3.80       |
-| New Zealand      | 11       |  4       | 15.40       |3.71       |
+| France      | 114       |  68       | 20.3       |3.8       |
+| Spain      | 52       |  22       | 14.3       |3.9       |
+| Italy      | 50       |  24       | 15.3       |3.8       |
+| Australia      | 39       |  9       | 17.0       |3.9      |
+| South Africa      | 31       |  9       | 13.8       |3.8      |
+| Chile      | 23       |  11       | 10.9       |3.7       |
+| Argentina      | 22       |  2       | 12.4       |3.9       |
+| USA      | 18       |  12       | 19.3       |3.9       |
+| Portugal      | 13       |  8       | 13.4       |3.8       |
+| New Zealand      | 11       |  4       | 15.4       |3.7       |
 
 As expected France has not only the most wines and the most wine regions, but also the highest average price. Surprisingly, the average rating of 3.81 is lower than many other countries including Spain and Italy. This may suggest a strong hierarchy in the quality of French wines, or that French wines are reviewed more harshly. It seems likely that the reviewers of high end French wines are more critical than the reviewers of low end Italian wines, introducing an asymmetry in the rating system.
 
@@ -65,8 +66,15 @@ Casella PepperBox Shiraz |4.0|9.99|South Eastern Australia|Australia
 Two Hands Angels Share Shiraz | 4.0|18.99|McLaren Vale|Australia
 Two Hands Gnarly Dudes Shiraz |4.0|18.99|Barossa Valley|Australia
 Two Hands Sexy Beast Cabernet Sauvignon |4.0|18.99|McLaren Vale|Australia
+Barista Pinotage 202122 Western Cape|4.1|8.99|Western Cape|South Africa
+Iona The Good Stuff |4.1|10.99|Cape South Coast|South Africa
+Capaia One 201819 Tygerberg|4.0|12.99|Western Cape|South Africa
+Rustenberg John X Merriman |4.0|16.99|Stellenbosch|South Africa
+Morgenster Lourens River Valley |4.2|17.99|Stellenbosch|South Africa
+Radford Dale Antithesis Syrah|4.1|18.99|Stellenbosch|South Africa
+Rupert Rothschild Classique |4.0|18.99|Western Cape|South Africa
 Marcelo Pelleriti Malbec |4.1|9.99|Mendoza|Argentina
-Vialba Reserve MalbecTouriga Nacional |4.1|10.99|Mendoza|Argentina
+Vialba Reserve Malbec |4.1|10.99|Mendoza|Argentina
 Catena Malbec |4.0|12.99|Mendoza|Argentina
 Vialba Gran Reservado Malbec |4.0|16.99|Mendoza|Argentina
 Terrazas de los Andes Malbec |4.2|16.99|Mendoza|Argentina
