@@ -22,7 +22,7 @@ The dataset is limited to currently in stock red wines on [Majestic wines](https
 | Portugal      | 13       |  8       | 13.4       |3.8       |
 | New Zealand      | 11       |  4       | 15.4       |3.7       |
 
-As expected France has not only the most wines and the most wine regions, but also the highest average price. Surprisingly, the average rating of 3.81 is lower than many other countries including Spain and Italy. This may suggest a strong hierarchy in the quality of French wines, or that French wines are reviewed more harshly. It seems likely that the reviewers of high end French wines are more critical than the reviewers of low end Italian wines, introducing an asymmetry in the rating system.
+As expected France has not only the most wines and the most wine regions, but also the highest average price. Surprisingly, the average rating of 3.8 is lower than many other countries including Spain and Australia. This may suggest a strong hierarchy in the quality of French wines, or that French wines are reviewed more harshly. It seems likely that the reviewers of high end French wines are more critical than the reviewers of low end Italian wines, introducing an asymmetry in the rating system. Similar effects can be seen on the beer rating website Untappd.
 
 <img src="https://github.com/chrisahart/vivino-majestic/blob/main/analysis/plots/wine_red/price_rating_all.png" style="display: block; margin: auto;" />
 
@@ -87,4 +87,4 @@ Villa Maria Reserve  |4.0|17.99|Hawke's Bay|New Zealand
 
 This table contains all wines with a Vivino rating above 4.0 and a price below £20, representing the greatest value. Wines are shown in price ascending order, grouped by country of descening number of wines. A [.csv file](https://github.com/chrisahart/vivino-majestic/blob/main/analysis/data/wine_red/wines_rating-above-4.0_price-below-20.csv) is available in the Github repository. This data indicates that Vivino users have a preference for smooth, low acidity, reasonably sweet fruit forward wines.
 
-From looking at other wine styles on Majestic wines, there is an extremely limited selection of desert or fortified wines. There are also only 2 orange wines, and very few sparkling wines that are not Champagne. For example Majestic wines sell no sekt, and only 10 Cremant with none scoring over 4 on Vivino. As such, I am unlikely to perform this analysis for any other wine style on Majestic Wines.
+From looking at other wine styles on Majestic wines, there is an extremely limited selection of desert or fortified wines. There are also only 2 orange wines, and very few sparkling wines that are not Champagne. For example Majestic wines sell no sekt (German sparkling wine), and only 10 Cremant with none scoring over 4 on Vivino. As such, I am unlikely to repeat this analysis for any other wine style on Majestic Wines.
