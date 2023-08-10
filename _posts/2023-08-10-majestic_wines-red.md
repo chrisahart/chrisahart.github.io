@@ -34,14 +34,6 @@ This figure shows the Vivino rating and Majestic Wines price for wines in France
 
 | Product Name      | Rating | Price / £ | Region| Country|
 |-----------|-----------|-----------|-----------|-----------|
-Primo Rosso Appassimento |4.1|8.99|Puglia|Italy
-Negrar Appassimento |4.1|9.99|Veneto|Italy
-Pasqua 'Desire, Lush & Zin' Primitivo|4.2|9.99|Puglia|Italy
-Polvanera 'P24' Primitivo |4.0|13.99|Gioia del Colle|Italy
-Domini Veneti La Casetta Valpolicella Ripasso |4.2|15.99|Valpolicella Ripasso|Italy
-Fidora Valpolicella Ripasso |4.0|16.99|Valpolicella Ripasso|Italy
-Antica Vigna Amarone della Valpolicella|4.0|17.99|Amarone della Valpolicella|Italy
-Definition Barolo |4.2|18.99|Barolo|Italy
 The Guvnor |4.0|6.99|Valdepeñas|Spain
 Ramn Bilbao Seleccin Especial |4.2|8.99|Rioja|Spain
 The Guvnor VIP |4.0|9.99|Vino de España|Spain
@@ -56,18 +48,14 @@ Bodegas Bardos Ribera del Duero Reserva|4.1|15.99|Ribera del Duero|Spain
 Cune Rioja Gran Reserva|4.0|17.99|Rioja|Spain
 Marqus de Cceres Rioja Gran Reserva |4.1|19.99|Rioja|Spain
 Muga Rioja Reserva |4.2|19.99|Rioja|Spain
-Chteau dAngls Grand Vin |4.1|15.99|La Clape|French
-Alain Jaume Les Champauvins |4.0|15.99|Côtes-du-Rhône|French
-Villa Maria Reserve  |4.0|17.99|Hawke's Bay|New Zealand
-Toast Honey Pinot Noir |4.0|12.99|Lodi|USA
-Bread Butter Cabernet Sauvignon |4.0|13.99|California|USA
-Bread Butter Pinot Noir |4.0|13.99|Napa Valley|USA
-3 Finger Jack Zinfandel |4.1|14.99|Lodi|USA
-19 Crimes Red Blend |4.0|8.99|Victoria|Australia
-Casella PepperBox Shiraz |4.0|9.99|South Eastern Australia|Australia
-Two Hands Angels Share Shiraz | 4.0|18.99|McLaren Vale|Australia
-Two Hands Gnarly Dudes Shiraz |4.0|18.99|Barossa Valley|Australia
-Two Hands Sexy Beast Cabernet Sauvignon |4.0|18.99|McLaren Vale|Australia
+Primo Rosso Appassimento |4.1|8.99|Puglia|Italy
+Negrar Appassimento |4.1|9.99|Veneto|Italy
+Pasqua 'Desire, Lush & Zin' Primitivo|4.2|9.99|Puglia|Italy
+Polvanera 'P24' Primitivo |4.0|13.99|Gioia del Colle|Italy
+Domini Veneti La Casetta Valpolicella Ripasso |4.2|15.99|Valpolicella Ripasso|Italy
+Fidora Valpolicella Ripasso |4.0|16.99|Valpolicella Ripasso|Italy
+Antica Vigna Amarone della Valpolicella|4.0|17.99|Amarone della Valpolicella|Italy
+Definition Barolo |4.2|18.99|Barolo|Italy
 Barista Pinotage 202122 Western Cape|4.1|8.99|Western Cape|South Africa
 Iona The Good Stuff |4.1|10.99|Cape South Coast|South Africa
 Capaia One 201819 Tygerberg|4.0|12.99|Western Cape|South Africa
@@ -81,8 +69,20 @@ Catena Malbec |4.0|12.99|Mendoza|Argentina
 Vialba Gran Reservado Malbec |4.0|16.99|Mendoza|Argentina
 Terrazas de los Andes Malbec |4.2|16.99|Mendoza|Argentina
 Mendel Selection Malbec |4.0|19.99|Mendoza|Argentina
+19 Crimes Red Blend |4.0|8.99|Victoria|Australia
+Casella PepperBox Shiraz |4.0|9.99|South Eastern Australia|Australia
+Two Hands Angels Share Shiraz | 4.0|18.99|McLaren Vale|Australia
+Two Hands Gnarly Dudes Shiraz |4.0|18.99|Barossa Valley|Australia
+Two Hands Sexy Beast Cabernet Sauvignon |4.0|18.99|McLaren Vale|Australia
+Toast Honey Pinot Noir |4.0|12.99|Lodi|USA
+Bread Butter Cabernet Sauvignon |4.0|13.99|California|USA
+Bread Butter Pinot Noir |4.0|13.99|Napa Valley|USA
+3 Finger Jack Zinfandel |4.1|14.99|Lodi|USA
 Luis Felipe Edwards 900 Single Vineyard |4.0|14.99|Colchagua Valley|Chile
 Santa Rita Triple C |4.1|15.99|Maipo Valley|Chile
 Managers Choice VIK A Cabernet Sauvignon |4.2|16.99|Cachapoal Valley|Chile
+Chteau dAngls Grand Vin |4.1|15.99|La Clape|France
+Alain Jaume Les Champauvins |4.0|15.99|Côtes-du-Rhône|French
+Villa Maria Reserve  |4.0|17.99|Hawke's Bay|New Zealand
 
-This table contains all wines with a Vivino rating above 4.0 and a price below £20, representing the greatest value. A [.csv file](https://github.com/chrisahart/vivino-majestic/blob/main/analysis/data/wine_red/wines_rating-above-4.0_price-below-20.csv) is available in the Github repository. There appears to be a strong preference for smooth, low acidity, reasonably sweet fruit forward wines.
+This table contains all wines with a Vivino rating above 4.0 and a price below £20, representing the greatest value. Wines are shown in price ascending order, grouped by country of descening number of wines. A [.csv file](https://github.com/chrisahart/vivino-majestic/blob/main/analysis/data/wine_red/wines_rating-above-4.0_price-below-20.csv) is available in the Github repository. This data indicates that Vivino users have a preference for smooth, low acidity, reasonably sweet fruit forward wines.
