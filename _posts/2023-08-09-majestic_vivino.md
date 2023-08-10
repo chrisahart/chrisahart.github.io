@@ -1,7 +1,7 @@
 ---
 title: 'Majestic wines + Vivino Chrome extension'
 date: 2023-08-09
-permalink: /posts/2023/majestic_vivino
+permalink: /posts/2023/1-majestic_vivino
 
 ---
 
