@@ -10,6 +10,10 @@ author_profile: true
 
 Curriculum vitae [PDF](../files/CV.pdf)
 
+Research
+======
+* Research Associate, Imperial College London (2022-2024).
+
 Education
 ======
 * PhD Condensed Matter and Materials Physics, University College London (2018-2022).
