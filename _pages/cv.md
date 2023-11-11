@@ -19,7 +19,7 @@ Education
 * PhD Condensed Matter and Materials Physics, University College London (2018-2022).
 * MSc. Chemistry and Molecular Physics (First class Honours), University of Nottingham (2014-2018).
 
-Conferences and related events
+Conferences and talks
 ======
 * [Materials and Molecular Modelling Hub, 2023. Poster presentation.](https://mmmhub.ac.uk/mmm-hub-conference-user-meeting-2023/)
 * [Supercomputer modelling of advanced materials at the Royal Society, 2022. Poster presentation.](https://royalsociety.org/science-events-and-lectures/2022/06/supercomputer-modelling/)
