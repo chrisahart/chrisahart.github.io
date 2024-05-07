@@ -13,6 +13,8 @@ Lishui tap water tested by [CMA Testing](https://www.cmatesting.org/about-us/) p
 
 [Upton water report](https://water-quality-api.prod.p.webapp.thameswater.co.uk/water-quality-api/Zone/NLE33) from [Thames water](https://www.thameswater.co.uk/)
 
+Raw data can be downloaded as a .csv [here](https://github.com/chrisahart/chrisahart.github.io/blob/master/files/water_quality_csv.csv)
+
 | Species                  | Lishui | Upton | China limit | UK limit | Unit |
 |--------------------------|--------|-------|-------------|----------|------|
 | Hydrogen ion             | 8.4    | 7.73  | 6.5-8.5     | 6.50-9.50| pH   |
