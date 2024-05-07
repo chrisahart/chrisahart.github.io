@@ -7,13 +7,13 @@ permalink: /posts/2024/1-china-water-quality
 
 In China most people drink [boiled tap water](https://safedrinkingwaterdotcom.wordpress.com/2014/01/13/boiled-in-china-a-personal-source-of-safe-drinking-water/), with an understanding that drinking unboiled tap water is not safe. 
 
-According to the [2018 China’s Water Resource Bulletin](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8430420/#b12) only 81.6% of the rivers, 25.0% of lakes, 87.3% of reservoirs, and 23.9% of shallow groundwater met the criteria for drinking water supply sources. As such, it would seem appropraite to be concerned about the drinkability of tap water in China. 
+According to the [2018 China’s Water Resource Bulletin](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8430420/#b12) only 81.6% of the rivers, 25.0% of lakes, 87.3% of reservoirs, and 23.9% of shallow groundwater met the criteria for drinking water supply sources. As such, it would seem appropriate to be concerned about the drinkability of tap water in China. 
 
 A quote obtained by [China Daily](https://www.chinadaily.com.cn/china/2007-07/03/content_908401.htm) from Fan Kangping, director of the water quality center of Beijing Waterworks Group, claimed that "the water piped out is clean and safe but gets contaminated before it reaches users". 
 
-There are many claims online on popular websites such as [Reddit](https://old.reddit.com/r/shanghai/comments/twkmiv/boiled_tap_water) and YouTube that the water in China is not drinkable, supported by goverments such as the United Kingdom who state that Chinese ["tap water is generally not safe to drink"](https://www.gov.uk/foreign-travel-advice/china/health). While there are many publications demonstrating that children in China have [high blood lead levels](https://doi.org/10.1016/j.envint.2019.105379), the life expectancy in China of [78](https://data.worldbank.org/indicator/SP.DYN.LE00.IN?locations=CN) is higher than many developed countires such as the US with [76](https://data.worldbank.org/indicator/SP.DYN.LE00.IN?locations=US). 
+There are many claims online on popular websites such as [Reddit](https://old.reddit.com/r/shanghai/comments/twkmiv/boiled_tap_water) and YouTube that the water in China is not drinkable, supported by goverments such as the United Kingdom who state that Chinese ["tap water is generally not safe to drink"](https://www.gov.uk/foreign-travel-advice/china/health). While there are many publications demonstrating that children in China have [high blood lead levels](https://doi.org/10.1016/j.envint.2019.105379), the life expectancy in China of [78](https://data.worldbank.org/indicator/SP.DYN.LE00.IN?locations=CN) is higher than many developed countries such as the US with [76](https://data.worldbank.org/indicator/SP.DYN.LE00.IN?locations=US). 
 
-Given that boiling heavy metal contaminated water is not going to address any safety concerns, I report labratory testing performed by [CMA Testing](https://www.cmatesting.org/about-us) on a sample of tap water obtained from Liandu District, Lishui, Zhejiang Province, China. I compare this to a [water report](https://water-quality-api.prod.p.webapp.thameswater.co.uk/water-quality-api/Zone/NLE33) by [Thames water](https://www.thameswater.co.uk/) for Upton Park, an area of East London in the United Kingdom with water that is understood to be drinkable.
+Given that boiling heavy metal contaminated water is not going to address any safety concerns, I report laboratory testing performed by [CMA Testing](https://www.cmatesting.org/about-us) on a sample of tap water obtained from Liandu District, Lishui, Zhejiang Province, China. I compare this to a [water report](https://water-quality-api.prod.p.webapp.thameswater.co.uk/water-quality-api/Zone/NLE33) by [Thames water](https://www.thameswater.co.uk/) for Upton Park, an area of East London in the United Kingdom with water that is understood to be drinkable.
 
 | Species                  | Lishui | London | China limit | UK limit | Unit |
 |--------------------------|--------|-------|-------------|----------|------|
@@ -35,7 +35,7 @@ Given that boiling heavy metal contaminated water is not going to address any sa
 | Sulphate as SO4          | 3.6    | 54    | 250         | 250      | mg/L |
 | Trihalomethanes          | <0.041 | 24    | 100         | 100      | μg/L |
 
-The water in Lishui, China is more alkaline and softer than water in London, UK and has less chloride and flouride. There is no evidence of heavy metal or bacterial contamination. 
+The water in Lishui, China is more alkaline and softer than water in London, UK and has less chloride and fluoride. There is no evidence of heavy metal or bacterial contamination. 
 
 While this is only a single sample of water from a single building in China, this suggests that the water quality may be higher than is generally understood. As such, I stop drinking bottled water at home and instead drink unboiled tap water. However I will still purchase bottled water or drink boiled water when away from home.
 
