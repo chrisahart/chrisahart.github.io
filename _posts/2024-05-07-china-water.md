@@ -33,7 +33,9 @@ Given that boiling heavy metal contaminated water is not going to address any sa
 | Sulphate as SO4          | 3.6    | 54    | 250         | 250      | mg/L |
 | Trihalomethanes          | <0.041 | 24    | 100         | 100      | μg/L |
 
+
 Supplementary information:
+
 Raw water report data can be downloaded as a .csv [here](https://github.com/chrisahart/chrisahart.github.io/blob/master/files/water_quality_csv.csv).
 
 CMA Testing certificate can be viewed [here](https://github.com/chrisahart/chrisahart.github.io/blob/master/files/water_certificate_1.png).
