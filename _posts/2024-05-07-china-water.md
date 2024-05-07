@@ -7,32 +7,11 @@ permalink: /posts/2024/1-china-water-quality
 
 In China most people drink boiled tap water, with an understanding that drinking unboiled tap water is not safe. A quote obtained by [China Daily](https://www.chinadaily.com.cn/china/2007-07/03/content_908401.htm) from Fan Kangping, director of the water quality center of Beijing Waterworks Group, claimed that "the water piped out is clean and safe but gets contaminated before it reaches users,". 
 
-Indeed, according to the [2018 “China’s Water Resource Bulletin”](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8430420/#b12)  only 81.6% of the rivers, 25.0% of lakes, 87.3% of reservoirs, and 23.9% of shallow groundwater met the criteria for drinking water supply sources. As such, it would seem appropraite to be sceptical about the drinability of tap water in China.
+Indeed, according to the [2018 China’s Water Resource Bulletin](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8430420/#b12) only 81.6% of the rivers, 25.0% of lakes, 87.3% of reservoirs, and 23.9% of shallow groundwater met the criteria for drinking water supply sources. As such, it would seem appropraite to be concerned about the drinability of tap water in China.
 
-While there are many claims online on websites such as Reddit and YouTube that the water in China is not drinkable, either due to bacterial contamination or heavy metal contaomination, there is a lack of empirical evidence to support such a viewpoint. While there are many publications demonstrating that children in China have [high blood lead levels](https://doi.org/10.1016/j.envint.2019.105379), the life expectancy in China of [78](https://data.worldbank.org/indicator/SP.DYN.LE00.IN?locations=CN) is higher than many developed countires such as the US with [76](https://data.worldbank.org/indicator/SP.DYN.LE00.IN?locations=US) suggesting that the water quality is not bad.  
+While there are many claims online on websites such as Reddit and YouTube that the water in China is not drinkable, either due to bacterial contamination or heavy metal contaomination, there is a lack of empirical evidence to support such views. While there are many publications demonstrating that children in China have [high blood lead levels](https://doi.org/10.1016/j.envint.2019.105379), the life expectancy in China of [78](https://data.worldbank.org/indicator/SP.DYN.LE00.IN?locations=CN) is higher than many developed countires such as the US with [76](https://data.worldbank.org/indicator/SP.DYN.LE00.IN?locations=US). 
 
-
-
-
-
-
-A quote from China Daily
-
-Given that boiling heavy metal contaminated water is not going to address any safety concerns, I report labratory testing performed on a sample of tap water obtained from a new high-rise building in Liandu District, Lishui, Zhejiang Province, China.
-
-"Fan Kangping, director of the water quality center of Beijing Waterworks Group, said the city's water had been potable since 2003. ... "We have a dilemma. The water piped out is clean and safe but gets contaminated before it reaches users," Fan said."
-
-It is a widely held beleif in China that the water must be boiled before consumption, however empirical data regarding the presence of bacterial contamination is lacking. 
-
-I present some analysis of china water quality
-
-Lishui tap water is more alkaline but softer, and has less chloride and flouride. No heavy metal or bacterial contamination.
-
-Lishui tap water tested by [CMA Testing](https://www.cmatesting.org/about-us/) purchased from [Taobao](https://m.tb.cn/h.g1fBQP5bFrkqMGl). Certificate can be viewed [here](https://github.com/chrisahart/chrisahart.github.io/blob/master/files/water_certificate_1.png).
-
-[Upton water report](https://water-quality-api.prod.p.webapp.thameswater.co.uk/water-quality-api/Zone/NLE33) from [Thames water](https://www.thameswater.co.uk/)
-
-Raw data can be downloaded as a .csv [here](https://github.com/chrisahart/chrisahart.github.io/blob/master/files/water_quality_csv.csv)
+Given that boiling heavy metal contaminated water is not going to address any safety concerns, I report labratory testing performed by [CMA Testing](https://www.cmatesting.org/about-us)/on a sample of tap water obtained from a new high-rise building in Liandu District, Lishui, Zhejiang Province, China.
 
 | Species                  | Lishui | Upton | China limit | UK limit | Unit |
 |--------------------------|--------|-------|-------------|----------|------|
@@ -53,3 +32,8 @@ Raw data can be downloaded as a .csv [here](https://github.com/chrisahart/chrisa
 | Chloride as Cl           | 3.1    | 53    | 250         | 250      | mg/L |
 | Sulphate as SO4          | 3.6    | 54    | 250         | 250      | mg/L |
 | Trihalomethanes          | <0.041 | 24    | 100         | 100      | μg/L |
+
+Supplementary information:
+Raw water report data can be downloaded as a .csv [here](https://github.com/chrisahart/chrisahart.github.io/blob/master/files/water_quality_csv.csv)
+CMA Testing certificate can be viewed [here](https://github.com/chrisahart/chrisahart.github.io/blob/master/files/water_certificate_1.png).
+[Thames water](https://www.thameswater.co.uk/) report for Upton can be viewed [here](https://water-quality-api.prod.p.webapp.thameswater.co.uk/water-quality-api/Zone/NLE33)
