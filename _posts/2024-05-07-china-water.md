@@ -5,7 +5,7 @@ permalink: /posts/2024/1-china-water-quality
 
 ---
 
-In China most people drink boiled tap water, with an understanding that drinking unboiled tap water is not safe. A quote obtained by (China Daily)[https://www.chinadaily.com.cn/china/2007-07/03/content_908401.htm] from Fan Kangping, director of the water quality center of Beijing Waterworks Group, claimed that "the water piped out is clean and safe but gets contaminated before it reaches users,". 
+In China most people drink boiled tap water, with an understanding that drinking unboiled tap water is not safe. A quote obtained by [China Daily](https://www.chinadaily.com.cn/china/2007-07/03/content_908401.htm) from Fan Kangping, director of the water quality center of Beijing Waterworks Group, claimed that "the water piped out is clean and safe but gets contaminated before it reaches users,". 
 
 Indeed, according to the [2018 “China’s Water Resource Bulletin”](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8430420/#b12)  only 81.6% of the rivers, 25.0% of lakes, 87.3% of reservoirs, and 23.9% of shallow groundwater met the criteria for drinking water supply sources. As such, it would seem appropraite to be sceptical about the drinability of tap water in China.
 
