@@ -35,6 +35,9 @@ Given that boiling heavy metal contaminated water is not going to address any sa
 | Sulphate as SO4          | 3.6    | 54    | 250         | 250      | mg/L |
 | Trihalomethanes          | <0.041 | 24    | 100         | 100      | μg/L |
 
+The water in Lishui, China is more alkaline and softer than water in London, UK and has less chloride and flouride. There is no evidence of heavy metal or bacterial contamination. 
+
+While this is only a single sample of water from a single building in China, this suggests that the water quality may be higher than is generally understood. As such, I stop drinking bottled water at home and instead drink unboiled tap water. However I will still purchase bottled water or drink boiled water when away from home.
 
 
 Supplementary information:
