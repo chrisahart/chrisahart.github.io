@@ -1,5 +1,5 @@
 ---
-title: 'China water quality report'
+title: 'Safe drinking water in China: a comparison of water quality in Lishui, China with London, UK'
 date: 2024-05-07
 permalink: /posts/2024/1-china-water-quality
 
