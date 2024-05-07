@@ -40,6 +40,7 @@ The water in Lishui, China is more alkaline and softer than water in London, UK 
 While this is only a single sample of water from a single building in China, this suggests that the water quality may be higher than is generally understood. As such, I stop drinking bottled water at home and instead drink unboiled tap water. However I will still purchase bottled water or drink boiled water when away from home.
 
 
+
 Supplementary information:
 
 Raw water report data can be downloaded as a .csv [here](https://github.com/chrisahart/chrisahart.github.io/blob/master/files/water_quality_csv.csv).
