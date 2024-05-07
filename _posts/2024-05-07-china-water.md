@@ -34,6 +34,8 @@ Given that boiling heavy metal contaminated water is not going to address any sa
 | Trihalomethanes          | <0.041 | 24    | 100         | 100      | μg/L |
 
 Supplementary information:
-Raw water report data can be downloaded as a .csv [here](https://github.com/chrisahart/chrisahart.github.io/blob/master/files/water_quality_csv.csv)
+Raw water report data can be downloaded as a .csv [here](https://github.com/chrisahart/chrisahart.github.io/blob/master/files/water_quality_csv.csv).
+
 CMA Testing certificate can be viewed [here](https://github.com/chrisahart/chrisahart.github.io/blob/master/files/water_certificate_1.png).
+
 [Thames water](https://www.thameswater.co.uk/) report for Upton can be viewed [here](https://water-quality-api.prod.p.webapp.thameswater.co.uk/water-quality-api/Zone/NLE33)
