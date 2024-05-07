@@ -15,7 +15,7 @@ There are many claims online on popular websites such as [Reddit](https://old.re
 
 Given that boiling heavy metal contaminated water is not going to address any safety concerns, I report labratory testing performed by [CMA Testing](https://www.cmatesting.org/about-us) on a sample of tap water obtained from Liandu District, Lishui, Zhejiang Province, China. I compare this to a [water report](https://water-quality-api.prod.p.webapp.thameswater.co.uk/water-quality-api/Zone/NLE33) by [Thames water](https://www.thameswater.co.uk/) for Upton Park, an area of East London in the United Kingdom with water that is understood to be drinkable.
 
-| Species                  | Lishui | Upton | China limit | UK limit | Unit |
+| Species                  | Lishui | London | China limit | UK limit | Unit |
 |--------------------------|--------|-------|-------------|----------|------|
 | Hydrogen ion             | 8.4    | 7.73  | 6.5-8.5     | 6.50-9.50| pH   |
 | Total hardness as CaCO3  | 48     | 265   | 450         |          | mg/L |
