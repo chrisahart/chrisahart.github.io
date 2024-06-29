@@ -13,9 +13,7 @@ A quote obtained by [China Daily](https://www.chinadaily.com.cn/china/2007-07/03
 
 There are many claims online on popular websites such as [Reddit](https://old.reddit.com/r/shanghai/comments/twkmiv/boiled_tap_water) and [YouTube](https://www.youtube.com/watch?v=7AtE6m0aPSg) that the water in China is not drinkable, supported by goverments such as the United Kingdom who state that Chinese ["tap water is generally not safe to drink"](https://www.gov.uk/foreign-travel-advice/china/health). 
 
-<! --  While there are many publications demonstrating that children in China have [high blood lead levels](https://doi.org/10.1016/j.envint.2019.105379), the life expectancy in China of [78](https://data.worldbank.org/indicator/SP.DYN.LE00.IN?locations=CN) is higher than many developed countries such as the US with [76](https://data.worldbank.org/indicator/SP.DYN.LE00.IN?locations=US). --> 
-
-Given that boiling heavy metal contaminated water is not going to address any safety concerns, I report laboratory testing performed by [CMA Testing](https://www.cmatesting.org/about-us) on a sample of tap water obtained from Liandu District, Lishui, Zhejiang Province, China. I compare this to a [water report](https://water-quality-api.prod.p.webapp.thameswater.co.uk/water-quality-api/Zone/NLE33) by [Thames water](https://www.thameswater.co.uk/) for Upton Park, an area of East London in the United Kingdom with water that is understood to be drinkable.
+Given these concerns, I report laboratory testing performed by [CMA Testing](https://www.cmatesting.org/about-us) on a sample of tap water obtained from Liandu District, Lishui, Zhejiang Province, China. I compare this to a [water report](https://water-quality-api.prod.p.webapp.thameswater.co.uk/water-quality-api/Zone/NLE33) by [Thames water](https://www.thameswater.co.uk/) for Upton Park, an area of East London in the United Kingdom with water that is understood to be drinkable.
 
 | Species                  | Lishui | London | China limit | UK limit | Unit |
 |--------------------------|--------|-------|-------------|----------|------|
