@@ -12,7 +12,7 @@ Curriculum vitae [PDF](../files/CV.pdf)
 
 Research
 ======
-* Research Associate, Imperial College London (2022-2024).
+* Research Associate in Computational Nano-Electrochemistry, Imperial College London (2022-2024).
 
 Education
 ======
