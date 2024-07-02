@@ -6,7 +6,9 @@ author_profile: true
 
 ---
 
-Following the completion of my PhD at University College London with Prof. Jochen Blumberger I have joined the group of Dr. Clotilde Cucinotta at Imperial College London, developing methodologies to enable the dynamical modelling of electrochemical systems under applied potential. 
+I obtained my PhD in Condensed Matter and Materials Physics at University College London, under the supervision of Prof. Jochen Blumberger, and have recently completed a postdoctoral research project at Imperial College London under the supervision of Dr. Clotilde Cucinotta.
+
+I currently reside in Zhejiang, China and am looking for a postdoctoral research position in first principles calculations.
 
 <strong>PhD Thesis (Official version):</strong> <br />
 [Charge transport in bulk hematite and at the hematite/water interface.](https://discovery.ucl.ac.uk/id/eprint/10153463/2/thesis.pdf)  <br />
