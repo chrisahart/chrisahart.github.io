@@ -3,7 +3,7 @@ title: "[Transitional surface Pt carbide formation during carbon nanotube growth
 collection: publications
 date: 2022-03-03
 venue: 'Carbon'
-citation: "Hannah C. Nerl, Christian S. Ahart, Alberto Eljarrat, Christoph T. Koch, Clotilde S. Cucinotta, Milivoj. Plodinec. Transitional surface Pt carbide formation during carbon nanotube growth. Carbon, 119399, 2024."
+citation: "Nerl, H. C., Ahart C. S., Eljarrat, A., Koch C. T., Cucinotta C. S., Plodinec, M., Transitional surface Pt carbide formation during carbon nanotube growth. Carbon, 119399, 2024."
 ---
 
 
