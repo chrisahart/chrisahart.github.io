@@ -7,11 +7,11 @@ permalink: /posts/2024/1-china-water-quality-1
 
 In China most people drink [boiled tap water](https://safedrinkingwaterdotcom.wordpress.com/2014/01/13/boiled-in-china-a-personal-source-of-safe-drinking-water/), with an understanding that drinking unboiled tap water is not safe. 
 
-According to the [2018 China’s Water Resource Bulletin](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8430420/#b12) only 81.6% of the rivers, 25.0% of lakes, 87.3% of reservoirs, and 23.9% of shallow groundwater met the criteria for drinking water supply sources. As such, it would seem appropriate to be concerned about the drinkability of tap water in China. 
+According to the [2018 China’s Water Resource Bulletin](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8430420/#b12) only 87% of reservoirs, 82% of the rivers, 25% of lakes and 24% of shallow groundwater met the criteria for drinking water supply sources. As such, it would seem appropriate to be concerned about the drinkability of tap water in China. 
 
 A quote obtained by [China Daily](https://www.chinadaily.com.cn/china/2007-07/03/content_908401.htm) from Fan Kangping, director of the water quality center of Beijing Waterworks Group, claimed that "the water piped out is clean and safe but gets contaminated before it reaches users". 
 
-There are many claims online on popular websites such as [Reddit](https://old.reddit.com/r/shanghai/comments/twkmiv/boiled_tap_water) and [YouTube](https://www.youtube.com/watch?v=7AtE6m0aPSg) that the water in China is not drinkable, supported by goverments such as the United Kingdom who state that Chinese ["tap water is generally not safe to drink"](https://www.gov.uk/foreign-travel-advice/china/health). 
+There are many claims online on popular websites such as [Reddit](https://old.reddit.com/r/shanghai/comments/twkmiv/boiled_tap_water) and [YouTube](https://www.youtube.com/watch?v=7AtE6m0aPSg) that the water in China is not drinkable, supported by goverments such as the United Kingdom who state as a travel advisory that Chinese ["tap water is generally not safe to drink"](https://www.gov.uk/foreign-travel-advice/china/health). 
 
 Given these concerns, I report laboratory testing performed by [CMA Testing](https://www.cmatesting.org/about-us) on a sample of tap water obtained from Liandu District, Lishui, Zhejiang Province, China. I compare this to a [water report](https://water-quality-api.prod.p.webapp.thameswater.co.uk/water-quality-api/Zone/NLE33) by [Thames water](https://www.thameswater.co.uk/) for Upton Park, an area of East London in the United Kingdom with water that is understood to be drinkable.
 
