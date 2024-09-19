@@ -19,14 +19,14 @@ Given these concerns, I report laboratory testing performed by [CMA Testing](htt
 |-------------|-------------------------------|--------|--------|-------------|----------|-------|
 | pH          | pH                            | 8.4    | 7.73   | 6.5-8.5     | 6.50-9.50| pH    |
 | 总硬度      | Total hardness as CaCO3      | 48     | 265    | 450         |          | mg/L  |
-| 砷          | Arsenic as As                | <0.09  | 0.3    | 1           | 0.01     | 10    | μg/L |
-| 铬          | Chromium as Cr               | <4     | <4     | <2.5       | 50       | 50    | μg/L |
-| 铅          | Lead as Pb                   | <0.07  | <0.07  | 2.3         | 10       | 10    | μg/L |
-| 汞          | Mercury as Hg                | <0.1   | <0.1   | <0.07       | 1        | 1     | μg/L |
-| 氰化物      | Cyanide as CN                | <2     | <2     | <4.1        | 50       | 50    | μg/L |
-| 氟化物      | Fluoride as F                | <0.1   | 0.1    | 0.16        | 1        | 1.5   | mg/L |
+| 砷          | Arsenic as As                | <0.09   | 1           | 0.01     | 10    | μg/L |
+| 铬          | Chromium as Cr               | <4      | <2.5       | 50       | 50    | μg/L |
+| 铅          | Lead as Pb                   | <0.07 | 2.3         | 10       | 10    | μg/L |
+| 汞          | Mercury as Hg                | <0.1    | <0.07       | 1        | 1     | μg/L |
+| 氰化物      | Cyanide as CN                | <2     | <4.1        | 50       | 50    | μg/L |
+| 氟化物      | Fluoride as F                | <0.1    | 0.16        | 1        | 1.5   | mg/L |
 | 硝酸盐      | Nitrate as NO3               | 3.28   | 29.6   | 10          | 50       | mg/L  |
-| 溴酸盐      | Bromate as BrO3              | <5     | <5     | 1.3         | 10       | 10    | μg/L |
+| 溴酸盐      | Bromate as BrO3              | <5       | 1.3         | 10       | 10    | μg/L |
 | 铁          | Iron as Fe                   | 70     | 5      | 300         | 200      | μg/L  |
 | 锰          | Manganese as Mn              | 3      | 0.6    | 100         | 50       | μg/L  |
 | 铜          | Copper as Cu                 | 0.003  | 0.022  | 1           | 2        | mg/L  |
