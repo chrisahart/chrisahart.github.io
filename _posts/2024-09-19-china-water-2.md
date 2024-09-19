@@ -5,7 +5,7 @@ permalink: /posts/2024/2-china-water-quality-2
 
 ---
 
-Continuing my previous [blog post](https://chrisahart.github.io/posts/2024/1-china-water-quality-1) with a comparison of water quality in Lishui (China) with London (UK), I now include data also for Hangzhou (China) obtained on 2024/09/01.
+Continuing my previous [blog post](https://chrisahart.github.io/posts/2024/1-china-water-quality-1) with a comparison of water quality in Lishui (China) with London (UK), I now also include data for Hangzhou (China) obtained on 2024/09/01.
 
 | Chinese        | English                          | Lishui | Hangzhou | London | China limit | UK limit | Unit   |
 |----------------|----------------------------------|--------|----------|--------|-------------|----------|--------|
