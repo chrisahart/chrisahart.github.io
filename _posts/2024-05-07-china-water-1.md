@@ -35,12 +35,11 @@ Given these concerns, I report laboratory testing performed by [CMA Testing](htt
 | Sulphate as SO4          | 3.6    | 54    | 250         | 250      | mg/L |
 | Trihalomethanes          | <0.041 | 24    | 100         | 100      | μg/L |
 
-The water in Lishui, China is more alkaline and softer than water in London, UK and has less chloride and fluoride. There is no evidence of heavy metal or bacterial contamination. Indeed, most heavy metals are found in lower concerntrations than in the UK tap water.
+The water in Lishui, China is more alkaline and softer than water in London, with no evidence of heavy metal contamination. Indeed, most heavy metals are found in lower concerntrations than in the UK tap water. The concerntration of nitrates in the London water sample is actually above the China regulatory limit, which is 5x lower than the UK limit. All tested species in the Lishui water are below both the UK and China limits. No bacterial contaimation was found.
 
 While this is only a single sample of water from a single building in China, this suggests that the water quality may be higher than is generally understood. 
 
-On a personal level, I will stop drinking bottled water at home and instead drink unboiled tap water. However I will still purchase bottled water or drink boiled water when away from home. In addition, I will switch to a toothpaste with higher levels of fluoride to compensate for the lower levels of fluoride in the drinking water compared to the UK.
-
+On a personal level, I will stop drinking bottled water at home and instead drink either boiled or unboiled tap water. However I will still purchase bottled water or drink boiled water when away from home. In addition, I will switch to a toothpaste with higher levels of fluoride to compensate for the lower levels of fluoride in the drinking water compared to the UK. 
 
 
 Supplementary information:
