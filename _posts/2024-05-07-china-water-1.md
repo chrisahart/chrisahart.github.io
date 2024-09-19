@@ -15,25 +15,25 @@ There are many claims online on popular websites such as [Reddit](https://old.re
 
 Given these concerns, I report laboratory testing performed by [CMA Testing](https://www.cmatesting.org/about-us) on a sample of tap water obtained from Liandu District, Lishui, Zhejiang Province, China. I compare this to a [water report](https://water-quality-api.prod.p.webapp.thameswater.co.uk/water-quality-api/Zone/NLE33) by [Thames water](https://www.thameswater.co.uk/) for Upton Park, an area of East London in the United Kingdom. While some people in London prefer to use a water softener, the water is safe to drink without boiling or filtering.
 
-| Species                  | Lishui | London | China limit | UK limit | Unit |
-|--------------------------|--------|-------|-------------|----------|------|
-| Hydrogen ion             | 8.4    | 7.73  | 6.5-8.5     | 6.50-9.50| pH   |
-| Total hardness as CaCO3  | 48     | 265   | 450         |          | mg/L |
-| Arsenic as As            | <0.09  | 1     | 0.01        | 10       | μg/L |
-| Cadmium as Cd            | <0.06  | <0.4  | 5           | 5        | μg/L |
-| Chromium as Cr           | <4     | <2.5  | 50          | 50       | μg/L |
-| Lead as Pb               | <0.07  | 2.3   | 10          | 10       | μg/L |
-| Mercury as Hg            | <0.1   | <0.07 | 1           | 1        | μg/L |
-| Cyanide as CN            | <2     | <4.1  | 50          | 50       | μg/L |
-| Fluoride as F            | <0.1   | 0.16  | 1           | 1.5      | mg/L |
-| Nitrate as NO3           | 3.28   | 29.6  | 10          | 50       | mg/L |
-| Bromate as BrO3          | 5      | 1.3   | 10          | 10       | μg/L |
-| Iron as Fe               | 70     | 5     | 300         | 200      | μg/L |
-| Manganese as Mn          | 3      | 0.6   | 100         | 50       | μg/L |
-| Copper as Cu             | 0.003  | 0.022 | 1           | 2        | mg/L |
-| Chloride as Cl           | 3.1    | 53    | 250         | 250      | mg/L |
-| Sulphate as SO4          | 3.6    | 54    | 250         | 250      | mg/L |
-| Trihalomethanes          | <0.041 | 24    | 100         | 100      | μg/L |
+| Chinese     | English                       | Lishui | London | China limit | UK limit | Unit  |
+|-------------|-------------------------------|--------|--------|-------------|----------|-------|
+| pH          | pH                            | 8.4    | 7.73   | 6.5-8.5     | 6.50-9.50| pH    |
+| 总硬度      | Total hardness as CaCO3      | 48     | 265    | 450         |          | mg/L  |
+| 砷          | Arsenic as As                | <0.09  | 0.3    | 1           | 0.01     | 10    | μg/L |
+| 铬          | Chromium as Cr               | <4     | <4     | <2.5       | 50       | 50    | μg/L |
+| 铅          | Lead as Pb                   | <0.07  | <0.07  | 2.3         | 10       | 10    | μg/L |
+| 汞          | Mercury as Hg                | <0.1   | <0.1   | <0.07       | 1        | 1     | μg/L |
+| 氰化物      | Cyanide as CN                | <2     | <2     | <4.1        | 50       | 50    | μg/L |
+| 氟化物      | Fluoride as F                | <0.1   | 0.1    | 0.16        | 1        | 1.5   | mg/L |
+| 硝酸盐      | Nitrate as NO3               | 3.28   | 29.6   | 10          | 50       | mg/L  |
+| 溴酸盐      | Bromate as BrO3              | <5     | <5     | 1.3         | 10       | 10    | μg/L |
+| 铁          | Iron as Fe                   | 70     | 5      | 300         | 200      | μg/L  |
+| 锰          | Manganese as Mn              | 3      | 0.6    | 100         | 50       | μg/L  |
+| 铜          | Copper as Cu                 | 0.003  | 0.022  | 1           | 2        | mg/L  |
+| 氯化物      | Chloride as Cl               | 3.1    | 53     | 250         | 250      | mg/L  |
+| 硫酸盐      | Sulphate as SO4              | 3.6    | 54     | 250         | 250      | mg/L  |
+| 三卤甲烷    | Trihalomethanes              | <0.041 | 24     | 100         | 100      | μg/L  |
+
 
 The water in Lishui, China is more alkaline and softer than water in London, with no evidence of heavy metal contamination. Indeed, most heavy metals are found in lower concerntrations than in the UK tap water. The concerntration of nitrates in the London water sample is actually above the China regulatory limit, which is 5x lower than the UK limit. All tested species in the Lishui water are below both the UK and China limits. No bacterial contaimation was found.
 
