@@ -25,3 +25,5 @@ Continuing my previous [blog post](https://chrisahart.github.io/posts/2024/1-chi
 | 氯化物         | Chloride as Cl                  | 3.1    | 5        | 53     | 250         | 250      | mg/L   |
 | 硫酸盐         | Sulphate as SO4                 | 3.6    | 12       | 54     | 250         | 250      | mg/L   |
 | 三卤甲烷       | Trihalomethanes                 | <0.041 | 2.1      | 24     | 100         | 100      | μg/L   |
+
+Similar to Lishui, the water in Hangzhou shows no evidence of heavy metal contamination. The tap water should therefore be drinkable. 
