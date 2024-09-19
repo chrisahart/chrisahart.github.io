@@ -13,7 +13,7 @@ A quote obtained by [China Daily](https://www.chinadaily.com.cn/china/2007-07/03
 
 There are many claims online on popular websites such as [Reddit](https://old.reddit.com/r/shanghai/comments/twkmiv/boiled_tap_water) and [YouTube](https://www.youtube.com/watch?v=7AtE6m0aPSg) that the water in China is not drinkable, supported by goverments such as the United Kingdom who state as a travel advisory that Chinese ["tap water is generally not safe to drink"](https://www.gov.uk/foreign-travel-advice/china/health). 
 
-Given these concerns, I report laboratory testing performed by [CMA Testing](https://www.cmatesting.org/about-us) on a sample of tap water obtained from Liandu District, Lishui, Zhejiang Province, China. I compare this to a [water report](https://water-quality-api.prod.p.webapp.thameswater.co.uk/water-quality-api/Zone/NLE33) by [Thames water](https://www.thameswater.co.uk/) for Upton Park, an area of East London in the United Kingdom with water that is understood to be drinkable.
+Given these concerns, I report laboratory testing performed by [CMA Testing](https://www.cmatesting.org/about-us) on a sample of tap water obtained from Liandu District, Lishui, Zhejiang Province, China. I compare this to a [water report](https://water-quality-api.prod.p.webapp.thameswater.co.uk/water-quality-api/Zone/NLE33) by [Thames water](https://www.thameswater.co.uk/) for Upton Park, an area of East London in the United Kingdom. While some people in London prefer to use a water softener, the water is safe to drink without boiling or filtering.
 
 | Species                  | Lishui | London | China limit | UK limit | Unit |
 |--------------------------|--------|-------|-------------|----------|------|
