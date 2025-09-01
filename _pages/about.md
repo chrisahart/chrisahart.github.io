@@ -6,7 +6,7 @@ author_profile: true
 
 ---
 
-I currently reside in Zhejiang, China and am looking for a postdoctoral research position in first principles calculations.
+I am a Research Assistant Professor at Westlake University (China), in the Multiscale Materials Modelling group of Dr Shi Liu. My current work focusses on the use of machine learning molecular dynamics for small polarons.
 
 I obtained my PhD in Condensed Matter and Materials Physics at University College London, under the supervision of Prof. Jochen Blumberger, and have recently completed a postdoctoral research project at Imperial College London under the supervision of Dr. Clotilde Cucinotta.
 
