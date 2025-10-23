@@ -22,6 +22,7 @@ Education
 
 Conferences and related events
 ======
+* [Asian Electronic Structure Workshop, 2025. Poster presentation.](https://www.nims.go.jp/event/asian26/)
 * [Materials and Molecular Modelling Hub, 2023. Poster presentation.](https://mmmhub.ac.uk/mmm-hub-conference-user-meeting-2023/)
 * Particles at Exascale MPI/OpenMP training, 2023.
 * [Supercomputer modelling of advanced materials at the Royal Society, 2022. Poster presentation.](https://royalsociety.org/science-events-and-lectures/2022/06/supercomputer-modelling/)
