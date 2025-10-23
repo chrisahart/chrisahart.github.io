@@ -13,7 +13,7 @@ Curriculum vitae [PDF](../files/CV.pdf)
 Research
 ======
 * Postdoctoral Researcher in Multiscale Materials Modelling, Westlake University (2024-2026).
-* Research Associate in Computational Nano-Electrochemistry, Imperial College London (2022-2024).
+* Postdoctoral Researcher in Computational Nano-Electrochemistry, Imperial College London (2022-2024).
 
 Education
 ======
