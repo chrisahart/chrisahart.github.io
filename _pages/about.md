@@ -6,11 +6,11 @@ author_profile: true
 
 ---
 
-I am a Postdoctoral Researcher at Westlake University (China), in the Multiscale Materials Modelling group of Dr Shi Liu. My current work focusses on the use of machine learning molecular dynamics for small polarons.
+I am a Postdoctoral Researcher at Westlake University (China), in the Multiscale Materials Modelling group of Prof. Shi Liu. My current work focusses on the use of machine learning molecular dynamics for small polarons.
 
 ---
 
-I obtained my PhD in Condensed Matter and Materials Physics at University College London, under the supervision of Prof. Jochen Blumberger. Following the completion of my PhD at University College London I accepted a postdoctoral research position in computational nano-electrochemistry at the prestigious Imperial College London under the supervision of Dr. Clotilde Cucinotta. 
+I obtained my PhD in Condensed Matter and Materials Physics at University College London, under the supervision of Prof. Jochen Blumberger. Following the completion of my PhD I accepted a postdoctoral research position in Computational Nano-Electrochemistry at Imperial College London under the supervision of Dr. Clotilde Cucinotta. 
 
 <strong>PhD Thesis (Official version):</strong> <br />
 [Charge transport in bulk hematite and at the hematite/water interface.](https://discovery.ucl.ac.uk/id/eprint/10153463/2/thesis.pdf)  <br />
