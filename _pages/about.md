@@ -12,8 +12,6 @@ My research sits at the intersection of electronic structure theory and molecula
 
 A recent focus of this work is DeepPolaron, a machine learning approach to modelling small polaron transport from first principles. The methodology is described in a preprint on arXiv, with an implementation currently being integrated into DeePMD-kit.
 
-![Table of contents graphic](https://github.com/chrisahart/chrisahart.github.io/blob/master/images/toc_graphic.png?raw=true)
-
-<img src="https://github.com/chrisahart/chrisahart.github.io/blob/master/images/toc_graphic.png?raw=true" width="400" alt="Table of contents graphic">
+<img src="https://github.com/chrisahart/chrisahart.github.io/blob/master/images/toc_graphic.png?raw=true" width="800" alt="Table of contents graphic">
 
 If you are interested in collaborating or have questions about this work, please don't hesitate to reach out.
