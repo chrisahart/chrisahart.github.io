@@ -12,6 +12,7 @@ My research spans electronic structure theory and molecular dynamics, with a foc
 
 A recent focus of this work is DeepPolaron, a machine learning approach to modelling small polaron transport from first principles. The methodology is described in a preprint on arXiv, with an implementation currently being integrated into DeePMD-kit.
 
+I am always happy to discuss potential collaborations, answer research questions, or give talks about DeepPolaron. Feel free to get in touch.
+
 <img src="https://github.com/chrisahart/chrisahart.github.io/blob/master/images/toc_graphic.png?raw=true" width="800" alt="Table of contents graphic">
 
-I am always happy to discuss potential collaborations, answer research questions, or give talks about DeepPolaron. Feel free to get in touch.
