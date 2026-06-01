@@ -8,12 +8,8 @@ author_profile: true
 
 I am a Postdoctoral Researcher at Westlake University (China), in the Multiscale Materials Modelling group of Prof. Shi Liu. 
 
-My research spans several key areas:
+My research sits at the intersection of electronic structure theory and molecular dynamics, spanning DFT based simulations, machine learning interatomic potentials, and the development of computational methods.
 
-- Electronic structure of solids and interfaces.
-- Density functional theory molecular dynamics and neural network potentials.
-- Method development.
+A recent focus of this work is DeepPolaron, a machine learning approach to modelling small polaron transport from first principles. The methodology is described in a preprint on arXiv, with an implementation currently being integrated into DeePMD-kit.
 
-Recently I have developed a machine learning approach termed DeepPolaron to study small polaron transport. This work is available on arXiv, and will soon be available in the development branch of DeePMD-kit.
-
-Interested to learn more? Please contact me!
+If you are interested in collaborating or have questions about this work, please don't hesitate to reach out.
