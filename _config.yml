@@ -81,11 +81,11 @@ analytics:
 author:
   name             : "Christian S. Ahart"
   avatar           : "profile.png"
-  location         : "Westlake University, China"
-  employer         :
+  location         : 
+  employer         : "Westlake University, China"
   googlescholar    : "https://scholar.google.com/citations?user=cXGF154AAAAJ"
   email            : "chris_ahart@westlake.edu.cn"
-  researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
+  researchgate     :  "https://www.researchgate.net/profile/Christian-Ahart"
   uri              :
   bitbucket        :
   codepen          :
