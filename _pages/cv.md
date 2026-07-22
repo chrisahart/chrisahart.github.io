@@ -23,7 +23,7 @@ Education
 Conferences and related events
 ======
 * [European Materials Research Society Fall Meeting, 2026. Contributed talk.](https://www.european-mrs.com/meetings/2026-fall-meeting-exhibit)
-* [Frontiers in modelling charge and proton transport for energy materials. Contributed talk.](https://www.cecam.org/workshop-details/frontiers-in-modelling-charge-and-proton-transport-for-energy-materials-1538)
+* [Frontiers in modelling charge and proton transport for energy materials, 2026. Contributed talk.](https://www.cecam.org/workshop-details/frontiers-in-modelling-charge-and-proton-transport-for-energy-materials-1538)
 * [Asian Electronic Structure Workshop, 2025. Poster presentation.](https://www.nims.go.jp/event/asian26/)
 * [Materials and Molecular Modelling Hub, 2023. Poster presentation.](https://mmmhub.ac.uk/mmm-hub-conference-user-meeting-2023/)
 * Particles at Exascale MPI/OpenMP training, 2023.
