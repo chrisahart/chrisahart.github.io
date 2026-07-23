@@ -18,7 +18,7 @@ Research
 Education
 ======
 * PhD Condensed Matter and Materials Physics, University College London (2018-2022).
-* MSc. Chemistry and Molecular Physics (First class Honours), University of Nottingham (2014-2018).
+* MSci Chemistry and Molecular Physics (First class Honours), University of Nottingham (2014-2018).
 
 Conferences and related events
 ======
