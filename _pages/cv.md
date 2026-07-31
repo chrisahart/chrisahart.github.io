@@ -8,7 +8,7 @@ author_profile: true
 
 {% include base_path %}
 
-Curriculum vitae [PDF](../files/CV.pdf)
+Curriculum vitae [PDF](../files/cv.pdf)
 
 Research
 ======
