@@ -20,7 +20,7 @@ Education
 * PhD Condensed Matter and Materials Physics, University College London (2018-2022).
 * MSci Chemistry and Molecular Physics (First class Honours), University of Nottingham (2014-2018).
 
-Conferences and related events
+Conferences, presentations
 ======
 * [European Materials Research Society Fall Meeting, 2026. Contributed talk.](https://www.european-mrs.com/meetings/2026-fall-meeting-exhibit)
 * [Frontiers in modelling charge and proton transport for energy materials, 2026. Contributed talk.](https://www.cecam.org/workshop-details/frontiers-in-modelling-charge-and-proton-transport-for-energy-materials-1538)
