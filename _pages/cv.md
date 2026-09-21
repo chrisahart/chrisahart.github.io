@@ -28,7 +28,7 @@ Conferences, presentations
 * [Materials and Molecular Modelling Hub, 2023. Poster presentation.](https://mmmhub.ac.uk/mmm-hub-conference-user-meeting-2023/)
 * [Supercomputer modelling of advanced materials at the Royal Society, 2022. Poster presentation.](https://royalsociety.org/science-events-and-lectures/2022/06/supercomputer-modelling/)
 * [Psi-k, 2022. Poster presentation.](https://www.psik2022.net/home)
-* [Research Group Seminar at Chicheley Hall, 2022. Oral presentation.](https://blumberger.net/wp-content/uploads/2022/03/program-Chicheley-Hall.pdf)
+* [Research Group Seminar at Chicheley Hall, 2022. Contributed talk.](https://blumberger.net/wp-content/uploads/2022/03/program-Chicheley-Hall.pdf)
 * [Computational Molecular Science, 2019. Poster presentation.](https://warwick.ac.uk/fac/sci/chemistry/chemevents/events/cms2019/)
 * [Thomas Young Centre Student Day, 2019. Poster presentation.](https://www.materials.qmul.ac.uk/news/3634/thomas-young-centre-tyc-student-day-2019)
 * [CP2K Users and Developers symposium at Imperial College London, 2019.](https://www.ccp5.ac.uk/cp2kmeet2019)
