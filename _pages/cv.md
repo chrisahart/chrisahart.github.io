@@ -12,6 +12,7 @@ Curriculum vitae [PDF](../files/cv.pdf)
 
 Research
 ======
+* Postdoctoral Researcher in Computational and Data-Driven Materials Chemistry, Institute of Science Tokyo (2026-).
 * Postdoctoral Researcher in Multiscale Materials Modelling, Westlake University (2024-2026).
 * Postdoctoral Researcher in Computational Nano-Electrochemistry, Imperial College London (2022-2024).
 
