@@ -6,8 +6,10 @@ author_profile: true
 
 ---
 
-I am a Postdoctoral Researcher at Westlake University (China), in the Multiscale Materials Modelling group of Prof. Shi Liu.
- 
+I am a Postdoctoral Researcher at the Institute of Science Tokyo, in the Computational and Data-Driven Materials Chemistry group of Prof. Yoshitaka Tateyama.
+
+Postdoctoral Researcher in Computational and Data-Driven Materials Chemistry, Institute of Science Tokyo
+
 I specialise in small polaron transport in transition metal oxides, where strong electron-phonon coupling causes charge carriers to self-trap and hop between lattice sites in a thermally activated process.
 
 My current focus is [DeepPolaron](https://arxiv.org/abs/2606.01763), a machine learning framework for simulating small polaron transport. This allows polaron dynamics to be simulated at nanosecond timescales that are out of reach for conventional DFT, while maintaining the accuracy of optimally tuned hybrid functionals. An implementation is available in the development branch of DeePMD-kit.
